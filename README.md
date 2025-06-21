@@ -21,9 +21,4 @@
   
 ## 🛠️ Languages and Tools
 
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,python,rust,c,c#,rust" />
-</p>
-
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=python,rust,c,cs,ocaml,git,ae,blender,octave,unity,latex,notion,linux&perline=5)](https://skillicons.dev)
