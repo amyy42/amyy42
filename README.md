@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <img src="https://github.com/amyy42/amyy42/blob/main/welcome_banner.png" alt="Welcome banner">
 
